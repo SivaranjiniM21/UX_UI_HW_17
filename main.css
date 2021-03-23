@@ -1,0 +1,10 @@
+h1{color:slateblue;
+}
+h2{color:salmon;
+}
+div {
+    display: flex;
+    align-items: center;
+  }
+  h3{color:black;
+  }
